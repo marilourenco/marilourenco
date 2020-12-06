@@ -1,6 +1,6 @@
 ### Hi there! :satisfied:
 
-- :brazil: Brazilian Quality Analyst living in Belo Horizonte
+- :brazil: I'm a Brazilian Software Quality Engineer living in Belo Horizonte
 - 🔭 I’m currently working on @Ci&T
 - 🌱 I’m currently learning about APIs and how to automate it
 - 👯 I’m looking to collaborate on software quality initiatives and inclusion of black people
