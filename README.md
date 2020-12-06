@@ -1,10 +1,6 @@
 ### Hi there! :satisfied:
 
-<!--
-**marilourenco/marilourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- Brazilian Quality Analyst living in Belo Horizonte
+- :brazil: Brazilian Quality Analyst living in Belo Horizonte
 - 🔭 I’m currently working on @Ci&T
 - 🌱 I’m currently learning about APIs and how to automate it
 - 👯 I’m looking to collaborate on software quality initiatives and inclusion of black people
