@@ -4,9 +4,8 @@
 
 
 - :brazil: I'm a Brazilian Software Quality Engineer living in Belo Horizonte
-- 🔭 I’m currently working on @C6Bank
-- 🌱 I’m currently learning about APIs and how to automate it
-- 👯 I’m looking to collaborate on software quality initiatives and inclusion of black people
-- 💬 Ask me about Quality Strategy, Testing Pyramid and Quality in development
+- 🌱 My studies are focused on how to automate processes and software, but also on people leadership and project management
+- 👯 I seek to collaborate in software quality initiatives and inclusion of black people, LGBTIQAPN+, women and PWDs.
+- 💬 Ask me about Quality Strategy, Testing Pyramid, Quality in development and people leadership
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: when I'm not working / studying, I love to paint watercolor and watch movies
+- ⚡ Fun fact: when I'm not working / studying, I love to paint watercolor, watch movies and spend time with my love ones
